@@ -3,7 +3,7 @@
 <big><big><b>𓆙 Python Mini Projects</b></big></big>
 
 A Collection Of Small Python Projects Built To Practice Programming Concepts,
-problem-solving, logic building, and hands-on development.
+Problem-Solving, Logic Building, And Hands-On Development
 
 </div>
 
