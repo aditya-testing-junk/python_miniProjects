@@ -17,9 +17,9 @@
 
 Before starting the game, the player chooses:
 
-1. 🔢 The number of digits in the secret code
-2. 🕵️ Whether to enable **Cheat Mode**
-3. 🎯 The desired difficulty level
+1. 🔢 The Number Of Digits In The Secret Code
+2. 🕵️ Whether To Enable **Cheat Mode**
+3. 🎯 The Desired Difficulty Level
 
 ---
 
